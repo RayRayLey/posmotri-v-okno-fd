@@ -1,1 +1,1 @@
-https://github.com/RayRayLey/posmotri
+https://github.com/RayRayLey/posmotri-v-okno-fd
